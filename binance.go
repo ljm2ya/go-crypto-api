@@ -1,7 +1,8 @@
-package main
+package exchanges
 
 import (
 	"github.com/adshao/go-binance"
+	"github.com/ljm2ya/go-crypto-api/environment"
 )
 
 var (
